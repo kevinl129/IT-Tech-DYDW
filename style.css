@@ -95,3 +95,10 @@ footer {
         padding: 15px;
     }
 }
+
+.error {
+    color: #d32f2f;
+    font-size: 0.85rem;
+    display: block;
+    margin-bottom: 10px;
+}
